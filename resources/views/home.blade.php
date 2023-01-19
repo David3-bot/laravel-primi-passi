@@ -7,6 +7,6 @@
     <title>Prova?</title>
 </head>
 <body>
-    <h1>Benvenutiiiiiiiiiiiiiiiiiiiiiii</h1>
+<h1> {{$name}} {{$surname}}</h1>
 </body>
 </html>
